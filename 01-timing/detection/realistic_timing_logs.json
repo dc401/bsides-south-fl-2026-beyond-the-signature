@@ -1,0 +1,1254 @@
+{
+  "scenario_a_network": {
+    "randomized_evasive": [
+      {
+        "timestamp": "2026-04-19T09:00:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T10:08:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T10:31:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T11:30:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T12:37:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T12:59:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T14:12:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T14:28:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T14:54:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T16:00:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T16:23:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:26:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:41:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T18:46:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T19:14:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T19:32:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T20:00:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T21:08:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T21:54:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T22:22:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T23:05:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T23:49:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T00:30:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T01:32:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T02:20:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T02:52:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T03:37:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T04:28:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T05:35:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T05:51:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T06:19:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T06:35:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T07:18:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T08:02:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-20T08:55:00",
+        "type": "network_connection",
+        "destination": "api.cloudservice.com",
+        "process": "svchost.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "104.21.45.123",
+        "dest_port": 443
+      }
+    ],
+    "bursty_legitimate": [
+      {
+        "timestamp": "2026-04-19T09:00:00",
+        "type": "network_connection",
+        "destination": "docs.microsoft.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T09:02:00",
+        "type": "network_connection",
+        "destination": "docs.microsoft.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T09:03:00",
+        "type": "network_connection",
+        "destination": "docs.microsoft.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T10:32:00",
+        "type": "network_connection",
+        "destination": "docs.microsoft.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T10:35:00",
+        "type": "network_connection",
+        "destination": "google.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T10:36:00",
+        "type": "network_connection",
+        "destination": "github.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T11:30:00",
+        "type": "network_connection",
+        "destination": "google.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T11:32:00",
+        "type": "network_connection",
+        "destination": "reddit.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T11:34:00",
+        "type": "network_connection",
+        "destination": "google.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "172.217.14.206",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T12:29:00",
+        "type": "network_connection",
+        "destination": "medium.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "13.224.167.20",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T12:33:00",
+        "type": "network_connection",
+        "destination": "medium.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "13.224.167.20",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T12:36:00",
+        "type": "network_connection",
+        "destination": "linkedin.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "13.224.167.20",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T12:39:00",
+        "type": "network_connection",
+        "destination": "linkedin.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "13.224.167.20",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T13:51:00",
+        "type": "network_connection",
+        "destination": "medium.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "13.224.167.20",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T13:54:00",
+        "type": "network_connection",
+        "destination": "medium.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "13.224.167.20",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T15:08:00",
+        "type": "network_connection",
+        "destination": "slack.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "54.230.128.100",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T15:11:00",
+        "type": "network_connection",
+        "destination": "slack.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "54.230.128.100",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T15:15:00",
+        "type": "network_connection",
+        "destination": "slack.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "54.230.128.100",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T15:19:00",
+        "type": "network_connection",
+        "destination": "slack.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "54.230.128.100",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T16:13:00",
+        "type": "network_connection",
+        "destination": "atlassian.net",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "54.230.128.100",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T16:15:00",
+        "type": "network_connection",
+        "destination": "slack.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "54.230.128.100",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T16:19:00",
+        "type": "network_connection",
+        "destination": "atlassian.net",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "54.230.128.100",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T16:56:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T16:58:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:01:00",
+        "type": "network_connection",
+        "destination": "github.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:04:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:07:00",
+        "type": "network_connection",
+        "destination": "github.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:08:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:11:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:12:00",
+        "type": "network_connection",
+        "destination": "github.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:15:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:16:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:18:00",
+        "type": "network_connection",
+        "destination": "github.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:20:00",
+        "type": "network_connection",
+        "destination": "github.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      },
+      {
+        "timestamp": "2026-04-19T17:22:00",
+        "type": "network_connection",
+        "destination": "stackoverflow.com",
+        "process": "chrome.exe",
+        "event_id": 3,
+        "source_ip": "192.168.1.100",
+        "dest_ip": "140.82.113.4",
+        "dest_port": 443
+      }
+    ]
+  },
+  "scenario_b_process": {
+    "evasive_delayed": [
+      {
+        "timestamp": "2026-04-19T09:00:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T09:48:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T10:17:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T10:39:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T11:03:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T11:35:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T12:20:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T12:56:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T13:40:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T14:27:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T14:54:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T15:18:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T15:41:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T16:37:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T17:16:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T18:01:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T18:42:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T19:40:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T20:37:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T21:04:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T21:54:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T22:56:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T23:20:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-19T23:54:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T00:51:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T01:10:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T01:55:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T02:38:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T03:21:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T04:11:00",
+        "type": "process_execution",
+        "process": "WindowsUpdateCheck.exe",
+        "parent_process": "taskeng.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\WindowsUpdateCheck.exe",
+        "user": "SYSTEM"
+      }
+    ],
+    "normal_scheduled": [
+      {
+        "timestamp": "2026-04-19T09:00:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T09:00:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T09:10:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T09:19:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T09:24:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-20T09:34:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-21T09:34:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-21T09:44:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-21T09:51:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-21T10:02:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-21T10:08:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-22T10:08:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-22T10:17:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-22T10:27:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-22T10:41:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-22T10:46:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-23T10:46:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-23T10:53:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-23T11:03:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-23T11:13:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-23T11:23:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-24T11:23:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-24T11:28:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-24T11:43:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-24T11:52:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-24T12:04:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-25T12:04:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-25T12:18:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-25T12:32:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      },
+      {
+        "timestamp": "2026-04-25T12:44:00",
+        "type": "process_execution",
+        "process": "UsoClient.exe",
+        "parent_process": "svchost.exe",
+        "event_id": 4688,
+        "command_line": "C:\\Windows\\System32\\UsoClient.exe StartScan",
+        "user": "SYSTEM"
+      }
+    ]
+  }
+}

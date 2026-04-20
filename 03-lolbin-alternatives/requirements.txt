@@ -1,0 +1,3 @@
+# Go 1.21+ required
+# Build with: go build -o custom_shell custom_shell.go
+# No external dependencies

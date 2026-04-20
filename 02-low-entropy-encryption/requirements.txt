@@ -1,0 +1,3 @@
+# Python 3.8+ required
+# No external dependencies - uses stdlib only (sys, random)
+# Unix tools for demo: xxd, tr (standard on Linux/macOS)
