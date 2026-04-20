@@ -1,4 +1,4 @@
-# bsides-south-fl-2026-beyond-the-signature
+# BSides South Florida 2026 - Beyond the Signature Workshop
 Beyond the Signature: Engineering Evasions That Break Detection Logic - Workshop code and slide files for May 08, 2026.
 
 The content of this work is base don the following (2) books authored by Dennis Chow.
