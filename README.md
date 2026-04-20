@@ -1,5 +1,7 @@
+
 # BSides South Florida 2026 - Beyond the Signature Workshop
 Beyond the Signature: Engineering Evasions That Break Detection Logic - Workshop code and slide files for May 08, 2026.
+![Bsides-South-Florida-2026](https://github.com/dc401/bsides-south-fl-2026-beyond-the-signature/blob/main/bsides-southfl.png?raw=true)
 
 The content of this work is base don the following (2) books authored by Dennis Chow.
 
@@ -12,7 +14,7 @@ This guide provides a validated summary and outline for **Evasion Engineering**,
 
 Purchase at NoStarch here: https://nostarch.com/evasion-engineering
 
-![Evasion Engineering Cover](https://github.com/dc401/nostarch-evasion-engineering/blob/main/evasion-engineering-cover.jpg?raw=true)
+![Evasion Engineering Cover](https://github.com/dc401/bsides-south-fl-2026-beyond-the-signature/blob/main/evasion-engineering-cover-small.jpg?raw=true)
 
 ## Automating Security Detection Engineering
 
